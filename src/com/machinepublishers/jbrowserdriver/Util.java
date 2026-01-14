@@ -34,7 +34,7 @@ import java.util.regex.Pattern;
 
 import javax.net.ssl.SSLProtocolException;
 
-import org.apache.commons.lang.RandomStringUtils;
+import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.http.ConnectionClosedException;
 import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.WrapsElement;
